@@ -1,3 +1,3 @@
 # Semi-MsTGANet
-# Multi-scale transformer global attention network (MsTGANet) and its semi-supervised version Semi-MsTGANet for drusen segmentation in retinal OCT images will be released soon when the paper is published. 
+Multi-scale transformer global attention network (MsTGANet) and its semi-supervised version Semi-MsTGANet for drusen segmentation in retinal OCT images will be released soon when the paper is published. 
 
