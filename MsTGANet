@@ -113,5 +113,4 @@ class MsTGANet(nn.Module):
         return torch.sigmoid(d1)
 
 
-		
-		
+
